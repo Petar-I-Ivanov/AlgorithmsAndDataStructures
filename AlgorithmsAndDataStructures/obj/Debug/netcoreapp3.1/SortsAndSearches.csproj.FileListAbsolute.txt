@@ -1,0 +1,14 @@
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\SortsAndSearches.exe
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\SortsAndSearches.deps.json
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\SortsAndSearches.runtimeconfig.json
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\SortsAndSearches.runtimeconfig.dev.json
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\SortsAndSearches.dll
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\netcoreapp3.1\SortsAndSearches.pdb
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.csproj.AssemblyReference.cache
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.AssemblyInfoInputs.cache
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.AssemblyInfo.cs
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.csproj.CoreCompileInputs.cache
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.dll
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.pdb
+C:\Users\pe6o0\source\repos\C# uni projects\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\netcoreapp3.1\SortsAndSearches.genruntimeconfig.cache
